@@ -1,9 +1,6 @@
 # Cyb0ts
 
-### Hi there 👋, We are the Cyb0ts.
-
-<h3 align="center">A team of Infosec Enthusiasts and CTF addicts.</h3>
-<p align="left"> <img src="https://github.com/MysticScripter/HNGi8/blob/main/cybot.jpg" alt="Cyb0ts" /> </p>
+### Hi there 👋, We are the Cyb0ts:
 
 - 🔭 Learning through Research and CTF challenges is our primary goal.
 
