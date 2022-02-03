@@ -1,6 +1,9 @@
 # Cyb0ts
 
-### Hi there 👋, We are the Cyb0ts:
+### Hi there 👋, We are the Cyb0ts.
+
+<h3 align="center">A team of Infosec Enthusiasts and CTF addicts.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cyb0ts" alt="Cyb0ts" /> </p>
 
 - 🔭 Learning through Research and CTF challenges is our primary goal.
 
